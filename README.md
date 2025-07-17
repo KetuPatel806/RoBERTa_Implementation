@@ -10,7 +10,7 @@ RoBERTa is an updated variant of the original BERT model! The main changes made 
 Today we will be exploring a dummy example of RoBERTa first to make sure we can replicate some of its functionality on a small dataset, and then attempt to reproduce the full RoBERTa-Base model as much as possible!
 
 ![Image](https://github.com/KetuPatel806/RoBERTa_Implementation/blob/main/MLM.png)
-![Image](/Users/jhanvi/Desktop/DeepLearning/RoBERTa_Implementation/BERT.png)
+![Image](BERT.png)
 
 ## Introduction 
 
